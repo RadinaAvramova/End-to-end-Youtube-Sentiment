@@ -39,12 +39,6 @@ http://localhost:5000/predict
 chrome://extensions
 
 
-## how to get youtube api key from gcp:
-
-https://www.youtube.com/watch?v=i_FdiQMwKiw
-
-
-
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
